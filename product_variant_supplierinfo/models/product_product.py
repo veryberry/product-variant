@@ -21,7 +21,7 @@ class ProductProduct(models.Model):
               "default supplier. It is used by the scheduler to order "
               "requests based on reordering delays."))
     seller_qty = fields.Float(
-        related='seller_ids.qty',
+        related='seller_ids.min_qty',
         string='Supplier Quantity',
         help="This is minimum quantity to purchase from Main Supplier.")
     seller_id = fields.Many2one(
