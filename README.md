@@ -1,6 +1,6 @@
-[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/137/9.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-product-variant-137)
-[![Build Status](https://travis-ci.org/OCA/product-variant.svg?branch=9.0)](https://travis-ci.org/OCA/product-variant)
-[![Coverage Status](https://coveralls.io/repos/OCA/product-variant/badge.png?branch=9.0)](https://coveralls.io/r/OCA/product-variant?branch=9.0)
+[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/137/10.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-product-variant-137)
+[![Build Status](https://travis-ci.org/OCA/product-variant.svg?branch=10.0)](https://travis-ci.org/OCA/product-variant)
+[![Coverage Status](https://coveralls.io/repos/OCA/product-variant/badge.png?branch=10.0)](https://coveralls.io/r/OCA/product-variant?branch=10.0)
 
 Product Variants
 ================
@@ -13,7 +13,6 @@ Unported addons
 ---------------
 addon | version | summary
 --- | --- | ---
-[product_variant_multi](product_variant_multi/) | 1.0 (unported) | Products with multi-dimension variants
-[product_variant_multi_advanced](product_variant_multi_advanced/) | 0.1 (unported) | Product Variant Multi Advanced
+[product_variant_supplierinfo](product_variant_supplierinfo/) | 9.0.1.0.0 (unported) | Supplier info to product variant scope
 
 [//]: # (end addons)
